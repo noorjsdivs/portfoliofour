@@ -6,7 +6,9 @@ const Contact = () => {
     <div className="wrapper">
       <div className="max-w-4xl mx-auto">
         <div className="flex flex-col gap-5 items-center justify-center">
-          <h3 className="text-3xl font-bold">Let's create awesome products!</h3>
+          <h3 className="text-3xl font-bold">
+            Let us create awesome products!
+          </h3>
           <p className="text-lg font-medium text-center">
             I am always open to discussing your project, improving your online
             presence, or helping with Your website design and converting
