@@ -9,7 +9,7 @@ const Contact = () => {
           <h3 className="text-3xl font-bold">Let's create awesome products!</h3>
           <p className="text-lg font-medium text-center">
             I am always open to discussing your project, improving your online
-            presence, or helping with Your website's design and converting
+            presence, or helping with Your website design and converting
             challenges.
           </p>
           <a
