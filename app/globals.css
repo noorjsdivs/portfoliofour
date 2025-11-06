@@ -1,9 +1,5 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-@layer components {
-  .wrapper {
-    @apply py-12 border-b-[1px] border-slate-600;
-  }
+@import "tailwindcss";
+/* bodyColor: "#121212", */
+@theme inline {
+  --color-bodyColor: #121212;
 }
